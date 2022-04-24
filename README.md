@@ -45,3 +45,5 @@ With Nodemon:
 ✏️
 
 No current testing
+
+## Watch Video Walk Through Here: https://youtu.be/kCy3UFrfswg
